@@ -13,3 +13,4 @@ library(tidyverse)
 library(primer.data)
 ```
 
+Using data from deceased United States gubernatorial candidates, we seek to predict the post-election longevity of political candidates. 
