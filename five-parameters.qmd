@@ -13,4 +13,4 @@ library(tidyverse)
 library(primer.data)
 ```
 
-Using data from deceased United States gubernatorial candidates, we seek to predict the post-election longevity of political candidates. 
+Using data from deceased United States gubernatorial candidates between 1945 and 2012, we seek to predict the post-election longevity of candidates in state-wide races. There is concern that there are longevity differences between major and minor party candidates.
